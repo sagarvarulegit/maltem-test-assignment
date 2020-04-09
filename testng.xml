@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="IMP-Test-Suite" verbose="1">
+    <listeners>
+        <listener class-name="support.listeners.TestListener"/>
+    </listeners>
+    <test name="SanityTests">
+        <classes>
+            <class name="support.runner.RunCucumberTest"/>
+<!--            <class name="app_tests.ProductListTest"/>-->
+<!--            <class name="app_tests.PurchaseRequisitionTest"/>-->
+        </classes>
+    </test>
+</suite>

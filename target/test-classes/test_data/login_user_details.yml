@@ -1,0 +1,172 @@
+---
+#---------------- Australia Users Login Accounts ---------------------------
+  - username: arry.budianto@brenntag-asia.com
+    imp_password: Imp@1234
+    emailAddress: arry.budianto@brenntag-asia.com
+    emailPassword:
+    firstName: Arry
+    surname: Budianto
+    country: Australia
+    designation: POCreator
+    approval_role_level: n/a
+    agent_id_1: AUPRO1
+    environment: q
+
+  - username: christopher.sac@brenntag-asia.com
+    imp_password: Imp@1234
+    emailAddress: christopher.sac@brenntag-asia.com
+    emailPassword:
+    firstName: Christopher
+    surname: Sac
+    country: Australia
+    designation: QSHE
+    approval_role_level: n/a
+    agent_id_1: ANQ01 - QSHE
+    environment: q
+
+  - username: imp-q.auproc@brenntagsource.asia
+    imp_password: Imp@123456
+    emailAddress: imp-q.auproc@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Local
+    surname: Procurement
+    country: Australia
+    designation: Procurement
+    approval_role_level: n/a
+    agent_id_1: AUPRO1
+    environment: q
+
+  - username: imp-q.aulocplan@brenntagsource.asia
+    imp_password: Imp@1234
+    emailAddress: imp-q.aulocplan@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Local
+    surname: Planner
+    country: Australia
+    designation: Local Planner
+    approval_role_level: n/a
+    agent_id_1: n/a
+    environment: q
+
+  - username: imp-q.auapprl1@brenntagsource.asia
+    imp_password: Imp@123456
+    emailAddress: imp-q.auapprl1@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Local One
+    surname: Approver
+    country: Australia
+    designation: Local 1 Approver
+    approval_role_level: Local 1
+    agent_id_1: AUL01
+    environment: q
+
+  - username: imp-q.auapprl1n2@brenntagsource.asia
+    imp_password: Qwe@123456
+    emailAddress: imp-q.auapprl1n2@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Local One and Two
+    surname: Approver
+    country: Australia
+    designation: Local 1 Approver
+    approval_role_level: Local 1 2
+    agent_id_1: AUL01
+    environment: q
+
+  - username: imp-q.auapprl2@brenntagsource.asia
+    imp_password: Imp@12345
+    emailAddress: imp-q.auapprl2@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Local Two
+    surname: Approver
+    country: Australia
+    designation: Local 2 Approver
+    approval_role_level: Local 2
+    agent_id_1: AUL02
+    environment: q
+
+  - username: imp-q.auapprl1r01@brenntagsource.asia
+    imp_password: Imp@123456
+    emailAddress: imp-q.auapprl1r01@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Level One A
+    surname: Approver
+    country: Australia
+    designation: Level 1 A
+    approval_role_level: Level 1
+    agent_id_1: AUR02
+    environment: q
+
+  - username: imp-q.auapprl1r01-1@brenntagsource.asia
+    imp_password: Imp@123456
+    emailAddress: imp-q.auapprl1r01-1@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Level One B
+    surname: Approver
+    country: Australia
+    designation: Level 1 B
+    approval_role_level: Level 1
+    agent_id_1: AUR02
+    environment: q
+
+  - username: imp-q.auapprl2r02@brenntagsource.asia
+    imp_password: Imp@1234567
+    emailAddress: imp-q.auapprl2r02@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: AU Level Two
+    surname: Approver
+    country: Australia
+    designation: Level 2
+    approval_role_level: Level 2
+    agent_id_1: AUR02
+    environment: q
+
+#------------------Malaysia Users Login Account------------------------------------
+  - username: imp-q.auproc@brenntagsource.asia
+    imp_password: Imp@123456
+    emailAddress: imp-q.auproc@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: MY Local
+    surname: Planner
+    country: Malaysia
+    designation: Local Planner
+    approval_role_level: n/a
+    agent_id_1: n/a
+    environment: q
+
+  - username: imp-q.myproc@brenntagsource.asia
+    imp_password: Imp@1234
+    emailAddress: imp-q.myproc@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: MY Local
+    surname: Procurement
+    country: Malaysia
+    designation: Procurement
+    approval_role_level: n/a
+    agent_id_1: MYPRO1
+    environment: q
+
+  - username: imp-q.myproc@brenntagsource.asia
+    imp_password: Imp@1234
+    emailAddress: imp-q.myproc@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: MY Local
+    surname: Procurement
+    country: Malaysia
+    designation: Procurement
+    approval_role_level: n/a
+    agent_id_1: MYPRO1
+    environment: q
+
+  - username: imp-q.nz101admin@brenntagsource.asia
+    imp_password: ABc@123456
+    emailAddress: imp-q.nz101admin@brenntagsource.asia
+    emailPassword: admin@123
+    firstName: Administrator
+    surname: ABc@123456
+    country: Malaysia
+    designation: Administrator
+    companyCode: 8708 / 1290 / 1248
+    purchasingOrganization: AU01 / NZ01/ MY01
+    approval_role_level: n/a
+    agent_id_1: n/a
+    environment: q

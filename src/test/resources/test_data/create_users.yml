@@ -1,0 +1,17 @@
+---
+  - username: imp-q.mylocplan3@brenntagsource.asia
+    imp_password: Imp@1234
+    emailAddress: imp-q.mylocplan3@brenntagsource.asia
+    emailPassword: Imp@123
+    firstName: MY Local
+    surname: Planner
+    country: Malaysia
+    designation: Procurement
+    role: Procurement
+    mobileNo: 87393302
+    phoneCountryCode: +60
+    companyCode: 1248
+    organisationCode: MY01
+    approval_role_level: n/a
+    agent_id_1: n/a
+    environment: q

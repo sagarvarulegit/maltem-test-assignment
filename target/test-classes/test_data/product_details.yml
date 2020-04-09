@@ -1,0 +1,175 @@
+---
+  - productNumber: 000000000010027074
+    productNumberShort: 10027074
+    baseUnit: KG
+    basicMaterial: AMISOL KD-3
+    countryOfOrigin: Singapore
+    createdBy: SGL_FRANKIE
+    createdOn: 2017-10-03
+    description: SG
+    documentType: SC
+    keyAccountName: RECOND
+    hazardousProdNumber: null
+    lastModifiedOn: 2020-01-06
+    packagingDescription: Drum
+    packagingType: Drum
+    packagingSize: 200KG
+    packagingSizeValue: 200
+    storageClass: null
+    storageClassDescription: null
+    unCode: null
+    unDescription: null
+    plants: null
+    productDescription: AMISOL KD-3
+    manufacturingLocation: SG
+    dangerous: false
+    hazardous: true
+    industrialChemical: false
+    specialtyChemical: true
+    extendedToUsersCountry: true
+    restrictedInUsersCountry: false
+    supplierCode: 0030000119
+    supplierName: KAWAKEN
+    unitPrice: null
+    hasPrice: false
+    stockAvailable: false
+
+  - productNumber: 000000000010000013
+    productNumberShort: 10000013
+    baseUnit: BT
+    basicMaterial: 1-BUTANOL 101988
+    countryOfOrigin: Germany
+    createdBy: TSS_RONALD
+    createdOn: 2015-03-18
+    description: DE
+    documentType: SC
+    keyAccountName: null
+    hazardousProdNumber: 4.1_UN1120_III
+    lastModifiedOn: 2019-12-16
+    packagingDescription: Bottle
+    packagingType: Bottle
+    packagingSize: 1BT
+    packagingSizeValue: 1
+    storageClass: 4.1
+    storageClassDescription: Flammable Solid
+    unCode: 1120
+    unDescription: BUTANOLS
+    plants: null
+    productDescription: 1-BUTANOL 101988
+    manufacturingLocation: DE
+    dangerous: true
+    hazardous: true
+    industrialChemical: false
+    specialtyChemical: true
+    extendedToUsersCountry: false
+    restrictedInUsersCountry: false
+    supplierCode: 0030000140
+    supplierName: MERCK-EMD MILLIPORE
+    unitPrice: null
+    hasPrice: false
+    stockAvailable: false
+
+  - productNumber: 000000000010000014
+    productNumberShort: 10000014
+    baseUnit: BT
+    basicMaterial: 1-PROPANOL 100997
+    countryOfOrigin: Germany
+    createdBy: TSS_RONALD
+    createdOn: 2015-03-18
+    description: DE
+    documentType: SC
+    keyAccountName: null
+    hazardousProdNumber: 3_UN1274_II
+    lastModifiedOn: 2019-06-04
+    packagingDescription: Bottle
+    packagingType: Bottle
+    packagingSize: 1BT
+    packagingSizeValue: 1
+    storageClass: 3
+    storageClassDescription: Flammable Liquid
+    unCode: 1274
+    unDescription: N-PROPANOL OR PROPYL ALCOHOL NORMAL
+    plants: null
+    productDescription: 1-PROPANOL 100997
+    manufacturingLocation: DE
+    dangerous: true
+    hazardous: true
+    industrialChemical: false
+    specialtyChemical: true
+    extendedToUsersCountry: false
+    restrictedInUsersCountry: false
+    supplierCode: 0030000140
+    supplierName: MERCK-EMD MILLIPORE
+    unitPrice: null
+    hasPrice: false
+    stockAvailable: false
+
+  - productNumber: 000000000010000001
+    productNumberShort: 10000001
+    baseUnit: KG
+    basicMaterial: 11000 ERYTHROSINE LAKE
+    countryOfOrigin: United Kingdom
+    createdBy: TSS_RONALD
+    createdOn: 2015-03-18
+    description: GB
+    documentType: SC
+    keyAccountName: null
+    hazardousProdNumber: null
+    lastModifiedOn: 2019-05-24
+    packagingDescription: Pail
+    packagingType: Pail
+    packagingSize: 5KG
+    packagingSizeValue: 5
+    storageClass: null
+    storageClassDescription: null
+    unCode: null
+    unDescription: null
+    plants: null
+    productDescription: 11000 ERYTHROSINE LAKE
+    manufacturingLocation: GB
+    dangerous: false
+    hazardous: false
+    industrialChemical: false
+    specialtyChemical: true
+    extendedToUsersCountry: false
+    restrictedInUsersCountry: false
+    supplierCode: 0030000239
+    supplierName: UNIVAR
+    unitPrice: null
+    hasPrice: false
+    stockAvailable: false
+
+  - productNumber: 000000000010000073
+    productNumberShort: 10000073
+    baseUnit: KG
+    basicMaterial: ADHERANT ADP
+    countryOfOrigin: Taiwan
+    createdBy: TSS_RONALD
+    createdOn: 2015-03-18
+    description: HSINCHU TW
+    documentType: SC
+    keyAccountName: null
+    hazardousProdNumber: 3_UN1866_III
+    lastModifiedOn: 2020-01-09
+    packagingDescription: Pail
+    packagingType: Pail
+    packagingSize: 25KG
+    packagingSizeValue: 25
+    storageClass: 3
+    storageClassDescription: Flammable Liquid
+    unCode: 1866
+    unDescription: RESIN SOLUTION FLAMMABLE
+    plants: null
+    productDescription: ADHERANT ADP
+    manufacturingLocation: HSINCHU TW
+    dangerous: true
+    hazardous: true
+    industrialChemical: false
+    specialtyChemical: true
+    extendedToUsersCountry: true
+    restrictedInUsersCountry: false
+    supplierCode: 0030000061
+    supplierName: ELEMENTIS SPECIALTIES
+    unitPrice: null
+    hasPrice: true
+    stockAvailable: true

@@ -1,0 +1,406 @@
+2020-02-11 14:33:37 ERROR LoginPO:38 - LoginPO.login method has failed
+2020-02-11 14:33:37 ERROR LoginPO:39 - 
+2020-02-11 14:34:29 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 14:34:29 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 14:34:43 ERROR LoginPO:38 - LoginPO.login method has failed
+2020-02-11 14:34:43 ERROR LoginPO:39 - 
+2020-02-11 14:35:34 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 14:35:34 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 14:35:46 ERROR LoginPO:38 - LoginPO.login method has failed
+2020-02-11 14:35:46 ERROR LoginPO:39 - 
+2020-02-11 14:36:38 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 14:36:38 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 14:46:43 ERROR LoginPO:38 - LoginPO.login method has failed
+2020-02-11 14:46:43 ERROR LoginPO:39 - 
+2020-02-11 14:47:35 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 14:47:35 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 14:54:49 ERROR LoginPO:38 - LoginPO.login method has failed
+2020-02-11 14:54:49 ERROR LoginPO:39 - 
+2020-02-11 14:55:40 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 14:55:40 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 14:55:53 ERROR LoginPO:38 - LoginPO.login method has failed
+2020-02-11 14:55:53 ERROR LoginPO:39 - 
+2020-02-11 14:56:44 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 14:56:44 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 16:18:14 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 16:18:14 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 16:25:18 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 16:25:18 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 16:47:50 INFO  TestListener:38 - speciality_and_industrial_chemical_filters_and_products passed!
+2020-02-11 16:47:59 INFO  TestListener:31 - create_pr_test started!
+2020-02-11 16:48:36 INFO  TestListener:38 - create_pr_test passed!
+2020-02-11 16:54:46 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 16:54:46 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 16:57:44 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-11 16:57:44 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-11 17:03:37 INFO  TestListener:44 - adminLogin failed!
+2020-02-11 17:09:31 INFO  TestListener:38 - procurementLogin passed!
+2020-02-12 14:08:03 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (489e2bb737b02de36b9cb37f3b32250f)] -> xpath: .//span[text()='Local 1']//following-sibling::div]
+2020-02-12 14:08:03 ERROR Interactions:120 - no such element: Unable to locate element: {"method":"xpath","selector":".//*[text()='Local One Approver']"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58757}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 489e2bb737b02de36b9cb37f3b32250f
+*** Element info: {Using=xpath, value=.//*[text()='Local One Approver']}
+2020-02-12 15:41:33 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: ..//span[text()='Approve']'
+2020-02-12 15:41:33 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: ..//span[text()='Approve']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-12 16:38:33 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']'
+2020-02-12 16:38:33 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[@class='logo' and text()='INTERCOMPANYTRADE']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-12 16:41:27 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']'
+2020-02-12 16:41:27 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-12 16:52:38 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']'
+2020-02-12 16:52:38 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-12 16:58:22 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']'
+2020-02-12 16:58:22 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-12 17:05:33 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']'
+2020-02-12 17:05:33 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-12 17:14:29 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: (.//p[text()='LOG IN'])[1]'
+2020-02-12 17:14:29 ERROR Interactions:69 - timeout
+  (Session info: chrome=79.0.3945.130)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49728}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9b0c20c6b5dd0de1d3fbad2bd5518648
+2020-02-12 17:16:42 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']'
+2020-02-12 17:16:42 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 14:14:05 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']'
+2020-02-13 14:14:05 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 14:28:44 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (61976bdcb24e150b3916d5829d6a2160)] -> xpath: .//*[text()='AU Level One A Approver']]
+2020-02-13 14:28:44 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (61976bdcb24e150b3916d5829d6a2160)] -> xpath: .//*[text()='AU Level One A Approver']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59411}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 61976bdcb24e150b3916d5829d6a2160
+2020-02-13 14:28:44 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (61976bdcb24e150b3916d5829d6a2160)] -> xpath: .//span[text()='Local 2']//following-sibling::div]
+2020-02-13 14:28:44 ERROR Interactions:120 - 
+2020-02-13 14:40:04 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (1fe9689f5d3a62b7baedf5c22f746587)] -> xpath: .//*[text()='AU Level One B Approver']]
+2020-02-13 14:40:04 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (1fe9689f5d3a62b7baedf5c22f746587)] -> xpath: .//*[text()='AU Level One B Approver']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1fe9689f5d3a62b7baedf5c22f746587
+2020-02-13 14:40:04 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (1fe9689f5d3a62b7baedf5c22f746587)] -> xpath: .//span[text()='Level 1']//following-sibling::div[@class='dropdown-renderprops custom-input choice2']]
+2020-02-13 14:40:04 ERROR Interactions:120 - 
+2020-02-13 14:43:59 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (ddf884b33992fce5278ec6fa1e401ec3)] -> xpath: .//*[text()='AU Level One B Approver']]
+2020-02-13 14:43:59 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (ddf884b33992fce5278ec6fa1e401ec3)] -> xpath: .//*[text()='AU Level One B Approver']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ddf884b33992fce5278ec6fa1e401ec3
+2020-02-13 14:43:59 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (ddf884b33992fce5278ec6fa1e401ec3)] -> xpath: .//span[text()='Level 1']//following-sibling::div[@class='dropdown-renderprops custom-input choice2']]
+2020-02-13 14:43:59 ERROR Interactions:120 - 
+2020-02-13 14:53:08 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (ca7a932aa35846ce5181e7257f87c687)] -> xpath: .//*[text()='AU Level One B Approver']]
+2020-02-13 14:53:08 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (ca7a932aa35846ce5181e7257f87c687)] -> xpath: .//*[text()='AU Level One B Approver']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60333}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ca7a932aa35846ce5181e7257f87c687
+2020-02-13 14:53:08 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (ca7a932aa35846ce5181e7257f87c687)] -> xpath: .//span[text()='Level 1']//following-sibling::div[@class='dropdown-renderprops custom-input choice2']]
+2020-02-13 14:53:08 ERROR Interactions:120 - 
+2020-02-13 14:57:22 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (0ac8d1e41bd4fe4f5ff1a697979024f3)] -> xpath: .//*[text()='RH Shipment']]
+2020-02-13 14:57:22 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (0ac8d1e41bd4fe4f5ff1a697979024f3)] -> xpath: .//*[text()='RH Shipment']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60497}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0ac8d1e41bd4fe4f5ff1a697979024f3
+2020-02-13 14:57:23 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (0ac8d1e41bd4fe4f5ff1a697979024f3)] -> xpath: .//span[text()='Fulfilment Method*']/parent::div/parent::div//select/parent::div]
+2020-02-13 14:57:23 ERROR Interactions:120 - 
+2020-02-13 14:58:47 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 1']//following-sibling::div'
+2020-02-13 14:58:47 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 1']//following-sibling::div' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 14:58:53 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 1']//following-sibling::div'
+2020-02-13 14:58:53 ERROR Interactions:120 - 
+2020-02-13 15:04:08 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (ad91059cf6be6e752d6aad7c0e44f988)] -> xpath: .//*[text()='AU Level One B Approver']]
+2020-02-13 15:04:08 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (ad91059cf6be6e752d6aad7c0e44f988)] -> xpath: .//*[text()='AU Level One B Approver']] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60668}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ad91059cf6be6e752d6aad7c0e44f988
+2020-02-13 15:06:45 ERROR Interactions:119 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (ad91059cf6be6e752d6aad7c0e44f988)] -> xpath: .//span[text()='Level 1']//following-sibling::div[@class='dropdown-renderprops custom-input choice2']]
+2020-02-13 15:06:45 ERROR Interactions:120 - 
+2020-02-13 15:11:29 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span'
+2020-02-13 15:11:29 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 17:12:07 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span'
+2020-02-13 17:12:07 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 17:20:06 INFO  TestListener:39 - approver1Login passed!
+2020-02-13 17:20:16 INFO  TestListener:31 - procurementLogin started!
+2020-02-13 17:20:24 INFO  TestListener:39 - procurementLogin passed!
+2020-02-13 17:20:33 INFO  TestListener:31 - speciality_and_industrial_chemical_filters_and_products started!
+2020-02-13 17:20:43 INFO  TestListener:39 - speciality_and_industrial_chemical_filters_and_products passed!
+2020-02-13 17:20:52 INFO  TestListener:31 - create_pr_test started!
+2020-02-13 17:22:33 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span'
+2020-02-13 17:22:33 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 17:22:33 INFO  TestListener:45 - create_pr_test failed!
+2020-02-13 17:29:06 INFO  TestListener:39 - approver1Login passed!
+2020-02-13 17:29:16 INFO  TestListener:31 - procurementLogin started!
+2020-02-13 17:29:20 INFO  TestListener:39 - procurementLogin passed!
+2020-02-13 17:29:30 INFO  TestListener:31 - speciality_and_industrial_chemical_filters_and_products started!
+2020-02-13 17:29:36 INFO  TestListener:39 - speciality_and_industrial_chemical_filters_and_products passed!
+2020-02-13 17:29:45 INFO  TestListener:31 - create_pr_test started!
+2020-02-13 17:31:23 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span'
+2020-02-13 17:31:23 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 17:31:23 INFO  TestListener:45 - create_pr_test failed!
+2020-02-13 17:44:11 INFO  TestListener:39 - approver1Login passed!
+2020-02-13 17:44:21 INFO  TestListener:31 - procurementLogin started!
+2020-02-13 17:44:25 INFO  TestListener:39 - procurementLogin passed!
+2020-02-13 17:44:35 INFO  TestListener:31 - speciality_and_industrial_chemical_filters_and_products started!
+2020-02-13 17:44:42 INFO  TestListener:39 - speciality_and_industrial_chemical_filters_and_products passed!
+2020-02-13 17:44:51 INFO  TestListener:31 - create_pr_test started!
+2020-02-13 17:46:29 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span'
+2020-02-13 17:46:29 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 17:46:29 INFO  TestListener:45 - create_pr_test failed!
+2020-02-13 17:47:02 INFO  TestListener:39 - approver1Login passed!
+2020-02-13 17:47:11 INFO  TestListener:31 - procurementLogin started!
+2020-02-13 17:47:16 INFO  TestListener:39 - procurementLogin passed!
+2020-02-13 17:47:25 INFO  TestListener:31 - speciality_and_industrial_chemical_filters_and_products started!
+2020-02-13 17:47:31 INFO  TestListener:39 - speciality_and_industrial_chemical_filters_and_products passed!
+2020-02-13 17:47:40 INFO  TestListener:31 - create_pr_test started!
+2020-02-13 17:49:18 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span'
+2020-02-13 17:49:18 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-13 17:49:18 INFO  TestListener:45 - create_pr_test failed!
+2020-02-14 09:51:39 ERROR Interactions:38 - ERROR - Failed to navigate to URL: http://q.brenntagsource.asia/
+2020-02-14 09:51:39 ERROR Interactions:39 - timeout
+  (Session info: chrome=79.0.3945.130)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62290}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4ce4e29426e98e4b54c9f4b74b1fd0f8
+2020-02-14 09:51:39 ERROR LandingPO:30 - ERROR - Failed to navigate to URL: http://q.brenntagsource.asia/
+2020-02-14 09:51:39 ERROR LandingPO:31 - 
+2020-02-14 09:58:50 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']'
+2020-02-14 09:58:50 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-14 11:07:26 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 1']//following-sibling::div'
+2020-02-14 11:07:26 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 1']//following-sibling::div' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-14 11:08:28 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 2']//following-sibling::div'
+2020-02-14 11:08:28 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 2']//following-sibling::div' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-14 11:08:48 INFO  TestListener:45 - create_pr_test failed!
+2020-02-14 15:03:30 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (10b960d8045990e22378f811c1b6bfc4)] -> xpath: .//span[text()='Local 2']//following-sibling::div]
+2020-02-14 15:03:30 ERROR Interactions:69 - element click intercepted: Element <div class="dropdown-renderprops custom-input choice2">...</div> is not clickable at point (304, 541). Other element would receive the click: <div class="sm-item">...</div>
+  (Session info: chrome=80.0.3987.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55752}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 10b960d8045990e22378f811c1b6bfc4
+2020-02-14 15:03:30 ERROR Interactions:123 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (10b960d8045990e22378f811c1b6bfc4)] -> xpath: .//span[text()='Local 2']//following-sibling::div]
+2020-02-14 15:03:30 ERROR Interactions:124 - 
+2020-02-14 15:39:01 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span'
+2020-02-14 15:39:01 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='pr-submitted']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-14 17:16:22 ERROR Interactions:162 - ERROR - Search Code and Select Value failed for WebElement: [[[[EdgeDriver: MicrosoftEdge on WINDOWS (72E0EF30-67AF-481D-99F8-C98AE3A78791)] -> xpath: .//div[@class='products-form']/div[@class='main-form']]] -> xpath: .//span[text()='Allocated Sub BU*']/parent::div/parent::div//input]
+2020-02-14 17:16:22 ERROR Interactions:163 - The specified selector is invalid.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 44.18362.449.0, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 72E0EF30-67AF-481D-99F8-C98AE3A78791
+*** Element info: {Using=xpath, value=.//span[contains(text(),'General N&H')]}
+2020-02-14 17:23:14 ERROR Interactions:38 - ERROR - Failed to navigate to URL: http://q.brenntagsource.asia/
+2020-02-14 17:23:14 ERROR Interactions:39 - The specified window could not be found.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 44.18362.449.0, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 401E8B7C-E4A7-441B-B182-F81201B9E4D5
+2020-02-14 17:23:14 ERROR LandingPO:30 - ERROR - Failed to navigate to URL: http://q.brenntagsource.asia/
+2020-02-14 17:23:14 ERROR LandingPO:31 - 
+2020-02-14 17:23:26 ERROR Interactions:38 - ERROR - Failed to navigate to URL: http://q.brenntagsource.asia/
+2020-02-14 17:23:26 ERROR Interactions:39 - The specified window could not be found.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 44.18362.449.0, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 72657AFE-3999-4179-9E26-9EC0A7BA0A9D
+2020-02-14 17:23:27 ERROR LandingPO:30 - ERROR - Failed to navigate to URL: http://q.brenntagsource.asia/
+2020-02-14 17:23:27 ERROR LandingPO:31 - 
+2020-02-14 17:25:00 ERROR Interactions:162 - ERROR - Search Code and Select Value failed for WebElement: [[[[EdgeDriver: MicrosoftEdge on WINDOWS (E4671934-886F-46FC-904B-0F28C9C13CEC)] -> xpath: .//div[@class='products-form']/div[@class='main-form']]] -> xpath: .//span[text()='Allocated Sub BU*']/parent::div/parent::div//input]
+2020-02-14 17:25:00 ERROR Interactions:163 - The specified selector is invalid.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.43', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 44.18362.449.0, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: E4671934-886F-46FC-904B-0F28C9C13CEC
+*** Element info: {Using=xpath, value=.//span[contains(text(),'General N&H')]}
+2020-02-17 17:21:50 INFO  TestListener:47 - create_pr_test failed!
+2020-02-18 10:11:32 INFO  TestListener:41 - create_pr_test passed!
+2020-02-18 14:20:34 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']'
+2020-02-18 14:20:34 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[text()='Skip & Submit PR/PO']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-18 14:38:18 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 2']//following-sibling::div'
+2020-02-18 14:38:18 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 2']//following-sibling::div' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-18 14:38:28 ERROR Interactions:123 - ERROR - Select dropdown failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 2']//following-sibling::div'
+2020-02-18 14:38:28 ERROR Interactions:124 - 
+2020-02-18 15:26:54 ERROR Interactions:68 - ERROR - Click function failed for WebElement: [[ChromeDriver: chrome on WINDOWS (413419cc37c14e4bed5b803d81f0f3b6)] -> xpath: .//span[text()='Local 1']//following-sibling::div]
+2020-02-18 15:26:54 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (413419cc37c14e4bed5b803d81f0f3b6)] -> xpath: .//span[text()='Local 1']//following-sibling::div] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.50', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54357}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 413419cc37c14e4bed5b803d81f0f3b6
+2020-02-18 15:26:54 ERROR Interactions:123 - ERROR - Select dropdown failed for WebElement: [[ChromeDriver: chrome on WINDOWS (413419cc37c14e4bed5b803d81f0f3b6)] -> xpath: .//span[text()='Local 1']//following-sibling::div]
+2020-02-18 15:26:54 ERROR Interactions:124 - 
+2020-02-18 15:30:09 ERROR ProductsPO:103 - ERROR - Failed to add products to PR bucket
+2020-02-18 15:30:09 ERROR ProductsPO:104 - no such element: Unable to locate element: {"method":"xpath","selector":"div[@class='rfi']/div[@class='plus-pr']"}
+  (Session info: chrome=80.0.3987.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.50', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b142207940facb6b3dbba31fd1de9540
+*** Element info: {Using=xpath, value=div[@class='rfi']/div[@class='plus-pr']}
+2020-02-18 15:57:57 ERROR ProductsPO:103 - ERROR - Failed to add products to PR bucket
+2020-02-18 15:57:57 ERROR ProductsPO:104 - no such element: Unable to locate element: {"method":"xpath","selector":"div[@class='rfi']/div[@class='plus-pr']"}
+  (Session info: chrome=80.0.3987.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BADGB1NB02', ip: '10.8.103.50', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\NLSVAR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55431}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4569f707868893587b23c2f47494072d
+*** Element info: {Using=xpath, value=div[@class='rfi']/div[@class='plus-pr']}
+2020-02-18 16:15:23 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 1']//following-sibling::div'
+2020-02-18 16:15:23 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='Local 1']//following-sibling::div' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-18 16:37:32 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']'
+2020-02-18 16:37:32 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-18 16:38:30 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='po-created']/span'
+2020-02-18 16:38:30 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='po-created']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-18 17:46:05 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']'
+2020-02-18 17:46:05 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-18 17:48:07 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='coverage-country-layout']'
+2020-02-18 17:48:07 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='coverage-country-layout']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-18 17:48:07 ERROR LoginPO:52 - LoginPO.login method has failed
+2020-02-18 17:48:07 ERROR LoginPO:53 - 
+2020-02-19 08:56:11 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='All Products' and @class='active-text']'
+2020-02-19 08:56:11 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//span[text()='All Products' and @class='active-text']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-02-19 08:56:11 ERROR ProductsPO:103 - ERROR - Failed to add products to PR bucket
+2020-02-19 08:56:11 ERROR ProductsPO:104 - 
+2020-03-11 10:51:37 ERROR Interactions:79 - ERROR - Send Key function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='coverage-country-layout']'
+2020-03-11 10:51:37 ERROR Interactions:80 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='coverage-country-layout']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-03-11 10:51:37 ERROR LoginPO:52 - LoginPO.login method has failed
+2020-03-11 10:51:37 ERROR LoginPO:53 - 
+2020-03-11 10:53:21 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']'
+2020-03-11 10:53:21 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='tab' and text()='Approval Dashboard']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-03-11 10:54:18 ERROR Interactions:106 - ERROR -Get Element Text function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='po-created']/span'
+2020-03-11 10:54:18 ERROR Interactions:107 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//div[@class='po-created']/span' (tried for 30 second(s) with 500 milliseconds interval)
+2020-04-08 17:07:28 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']'
+2020-04-08 17:07:28 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-04-08 17:07:28 ERROR LoginPO:30 - ERROR - Failed to open Chapter 1 link
+2020-04-08 17:07:28 ERROR LoginPO:31 - 
+2020-04-08 17:12:52 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']'
+2020-04-08 17:12:52 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-04-08 17:12:52 ERROR LoginPO:33 - ERROR - Failed to open Chapter 1 link
+2020-04-08 17:12:52 ERROR LoginPO:34 - 
+2020-04-08 17:15:03 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']'
+2020-04-08 17:15:03 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-04-08 17:17:45 ERROR LoginPO:33 - ERROR - Failed to open Chapter 1 link
+2020-04-08 17:17:45 ERROR LoginPO:34 - 
+2020-04-08 17:20:33 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']'
+2020-04-08 17:20:33 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-04-08 17:25:47 ERROR Interactions:68 - ERROR - Click function failed for WebElement: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']'
+2020-04-08 17:25:47 ERROR Interactions:69 - Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: .//a[text()='Chapter1']' (tried for 30 second(s) with 500 milliseconds interval)
+2020-04-09 17:06:56 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:06:56 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:06 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:06 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:07 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:07 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:08 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:08 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:09 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:09 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:10 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:10 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:11 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:11 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:12 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:12 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:14 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:07:14 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:07:15 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:16 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:16 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:25 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:25 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:27 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:27 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:28 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:28 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:29 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:29 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:30 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:30 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:31 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:31 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:32 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:32 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:33 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:15:33 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:15:34 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:23 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:23 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:32 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:32 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:33 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:33 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:34 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:34 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:35 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:35 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:36 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:36 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:37 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:37 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:38 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:22:38 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:39 INFO  TestListener:47 - runScenario failed!
+2020-04-09 17:22:39 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:22:40 INFO  TestListener:47 - runScenario failed!
+2020-04-09 17:23:51 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:23:51 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:00 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:00 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:02 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:02 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:03 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:03 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:04 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:04 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:05 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:05 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:06 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:06 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:07 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:07 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:08 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:24:08 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:24:09 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:20 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:20 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:29 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:29 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:30 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:30 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:31 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:31 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:32 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:32 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:33 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:33 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:34 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:34 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:35 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:35 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:36 INFO  TestListener:41 - runScenario passed!
+2020-04-09 17:37:36 INFO  TestListener:32 - runScenario started!
+2020-04-09 17:37:37 INFO  TestListener:41 - runScenario passed!
